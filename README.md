@@ -1,0 +1,2 @@
+- 👋 Hi, I’m @NGon001
+- 👀 I’m interested in ***c++***
