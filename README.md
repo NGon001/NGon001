@@ -16,4 +16,12 @@
 - I explore real websites to test, report bugs, and create test cases to simulate real QA workflows.
 - Currently diving deeper into Playwright and JavaScript.
 
+---
+
+## 📇 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/vladyslav-prudkohliad-19a639360)
+
+---
+
 ![Codewars](https://www.codewars.com/users/NGon001/badges/large)
