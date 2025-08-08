@@ -10,13 +10,13 @@ workflows. I transitioned into QA after experimenting with small app development
 🛠 What I Work With:
 - Frameworks I am using: Selenium, Pylenium, Playwright, Appium, JUnit, TestNG, Pytest, Mocha, Chai.
 - Languages: C++, JavaScript/TypeScript a bit of Java
-- Tools: GitHub, Git, Jira, Postman, TestRail, Sauce Labs
-- Testing Focus: UI Testing, API Testing, E2E testing
+- Tools: GitHub, Git, Jira + Zephyr, Postman, TestRail, Sauce Labs
+- Testing Focus: UI Testing ( E2E testing ), API Testing,
 
 ----
 
 🚀 Projects & Learning:
-- I’m building my skills through personal projects, bug reports, and automation scripts.
+- I’m building my skills through personal projects.
 - I explore real websites to test, report bugs, and create test cases to simulate real QA workflows.
 - Currently diving deeper into Playwright and JavaScript.
 
